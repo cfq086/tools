@@ -1,0 +1,9 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+ 
+Canonical: https://example.com/.well-known/security.txt
+Contact: mailto:security@example.com
+Expires: 2027-08-31T23:59:59Z
+-----BEGIN PGP SIGNATURE-----
+[签名内容]
+-----END PGP SIGNATURE-----
